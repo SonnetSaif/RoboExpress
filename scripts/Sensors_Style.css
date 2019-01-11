@@ -1,0 +1,189 @@
+body{
+    width: 100%;
+}
+
+#items01{
+    
+    padding-left: 40%;
+    font-size: 18px;
+    margin-top: -2%;
+    margin-bottom: -1.5%;
+}
+/*
+#firstul{
+    height: 3%;
+}
+*/
+
+#searchbox{
+    margin: 2.5% 2% 2% 6%;
+}
+
+img{
+    max-height: 100%;
+    max-width: 100%;
+    display: inline-block;
+    margin: 5% 0% 0% 1%;
+}
+
+#sharebuttons{
+    margin: -4% 0% 0% 55%;
+}
+
+.icons{
+    margin: -6.5% 0% 0% 60%;
+}
+
+.fa{
+  padding: 16px;
+  width: 48px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.fa:hover{
+    opacity: 0.8;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+#items02{
+    padding-left: 20%;
+    font-size: 20px;
+    margin-top: 1%;
+    padding-bottom: 0.4%;
+/*    margin-bottom: -1.5%;*/
+}
+
+
+.hero-image{
+    background-image: url(capacitor-chip-circuit.jpg);
+    width: 100%;
+    height: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+/*
+.hero-text{
+    text-align: center;
+    position: absolute;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    top: 35%;
+    left: 42%;
+}
+*/
+h1.sensors_products{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: center;
+/*    margin-top: 15%;*/
+    color: white;
+    letter-spacing: 2px;
+    padding-top: 5%;
+    font-size: 50px;
+}
+h1.sensors_products span{
+    font-weight: 300;
+    color:white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+.products {
+      border: 1px solid #333;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      padding: 16px;
+      margin-bottom: 20px;
+  }
+.table {
+    margin: 0px auto;
+    float: none;
+}
+.row {
+    margin: 0px auto;
+    float: none;
+}
+.centered{
+    float: none;
+    margin: 0 auto;
+}
+.button {
+    background: #6394F8;
+    color:white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+    border-radius: 3px;
+    font-size: 16px;
+    margin: 25px 0 15px 0;
+}
+ .button:visited {
+      text-decoration: none;
+      color: white;
+}
+.button:hover {
+    background: #7fa9ff;
+    text-decoration: none;
+    color: white;
+}
+.button:active {
+    text-decoration: none;
+    color: white;
+}
+.btn-danger {
+      font-size: 12px;
+      padding: 3px;
+}
+.btn-danger:hover {
+      text-decoration: none;
+  }
+a {
+      text-decoration: none;
+}
+a:hover {
+      text-decoration: none;
+  }
+h3 {
+      margin-top: 0px;
+}
+h4.ourInfo{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: white;
+    padding-left: 20%;
+}
+h4.storeInfo{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: white;
+    padding-left: 5%;
+}
+ 
+
+
+/*style="font-weight: bold;font-family: 'Source Sans Pro', sans-serif;font-size: 50px;text-align: center;position: absolute;font-family: 'Source Sans Pro', sans-serif;color: white;top: 35%;left: 42%;"*/

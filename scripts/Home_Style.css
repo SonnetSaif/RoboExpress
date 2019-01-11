@@ -1,0 +1,149 @@
+body{
+    width: 100%;
+}
+
+/*
+#myBtn {
+    display: none; 
+    position: fixed; 
+    bottom: 350px; 
+    right: 30px; 
+    z-index: 99;
+    border: none; 
+    outline: none; 
+    background-color: aqua; 
+    color: black; 
+    cursor: pointer; 
+    padding: 15px; 
+    border-radius: 20px; 
+    font-size: 22px;
+}
+
+#myBtn:hover {
+    background-color: #555;
+}
+*/
+
+#items01{
+    
+    padding-left: 35%;
+    font-size: 17px;
+    margin-top: -2%;
+    margin-bottom: -1.5%;
+}
+/*
+#firstul{
+    height: 3%;
+}
+*/
+
+#searchbox{
+    margin: 3% 2% 2% 4%;
+}
+
+img{
+    max-height: 100%;
+    max-width: 100%;
+    display: inline-block;
+    margin: 9% 0% 0% 8%;
+}
+
+#sharebuttons{
+    margin: -5% 0% 0% 57%;
+}
+
+.icons{
+    margin: -6.5% 0% 0% 60%;
+}
+
+.fa{
+  padding: 16px;
+  width: 48px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.fa:hover{
+    opacity: 0.8;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+#items02{
+    padding-left: 22%;
+    font-size: 20px;
+    margin-top: 1%;
+    padding-bottom: 0.4%;
+/*    margin-bottom: -1.5%;*/
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+h1.whyre{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 15%;
+    color: black;
+    letter-spacing: 2px;
+}
+h1.whyre span{
+    font-weight: 300;
+}
+h1.featPro, h1.bestPro, h1.ltstPro{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 15%;
+    color: black;
+    letter-spacing: 2px;
+}
+h1.featPro span,  h1.bestPro span, h1.ltstPro span, h4.ourInfo span, h4.storeInfo span{
+    font-weight: 300;
+}
+h4.ourInfo{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: white;
+    padding-left: 20%;
+}
+h4.storeInfo{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: white;
+    padding-left: 5%;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.line{
+    background-color: aqua;
+    width: 77%;
+    height: 3%;
+}
+
+
+
+
+/* #  74BEFF */
+
+
